@@ -5,3 +5,38 @@ div {
     text-align: center;
     font-weight: bold;
   }
+
+  .diff {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+  
+  .still-diff {
+    font-size: 24px;
+  }
+  
+  #two {
+    color: #0000ff;
+    font-size: 36px;
+  }
+  
+  #four {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+}
+
+.fancy {
+  background-color: yellow;
+}
